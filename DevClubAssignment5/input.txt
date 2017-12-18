@@ -1,0 +1,5 @@
+root:x:0:0:root:/bin/bash
+hplip:x:114:7:HPLIP system user,,,:/var/run/hplip:/bin/false/
+pulse:x:115:122:pulseaudio daemon,,,:/var/run/pulse:/bin/false/
+meenal:x:1000:1000:meenal amadwal,,,:/home/menal:/bin/bash
+sshd:x:118:65534::/var/run/sshd:/usr/sbin/nologin
